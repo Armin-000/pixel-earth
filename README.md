@@ -5,7 +5,7 @@ A lightweight interactive 3D Earth visualization built with Three.js, featuring 
 
 <p align="center">
   <img 
-    src="./images/earth.png" 
+    src="./images/earth2.png" 
     alt="Pixel Earth Preview" 
     width="800"
     style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" 
