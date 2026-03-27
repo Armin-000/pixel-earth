@@ -40,31 +40,6 @@ The project is designed to be simple, performant, and easily extendable for more
 
 ```
 
-## Getting Started
-
-1. Clone the repository:
-```
-
-git clone <your-repo-url>
-
-```
-
-2. Open the project folder.
-
-3. Run using a local server (recommended):
-```
-
-npx serve
-
-```
-
-4. Open in browser:
-```
-
-[http://localhost:3000](http://localhost:3000)
-
-````
-
 ## Usage
 
 You can dynamically change highlighted countries from the browser console:
