@@ -4,12 +4,13 @@
 A lightweight interactive 3D Earth visualization built with Three.js, featuring country-level rendering using GeoJSON data and dynamic highlighting.
 
 <p align="center">
-  <img 
-    src="./images/earth.png" 
-    alt="Pixel Earth Preview" 
-    width="800"
-    style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" 
-  />
+  <div style="border-radius:16px; overflow:hidden; display:inline-block; box-shadow:0 10px 30px rgba(0,0,0,0.3);">
+    <img 
+      src="./images/earth.png" 
+      alt="Pixel Earth Preview" 
+      width="800"
+    />
+  </div>
 </p>
 
 ## Overview
