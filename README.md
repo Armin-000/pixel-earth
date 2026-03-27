@@ -3,6 +3,10 @@
 
 A lightweight interactive 3D Earth visualization built with Three.js, featuring country-level rendering using GeoJSON data and dynamic highlighting.
 
+<p align="center">
+  <img src="./images/earth.png" alt="Pixel Earth Preview" width="800" />
+</p>
+
 ## Overview
 
 Pixel Earth renders a stylized globe with countries drawn procedurally onto a texture using canvas. It supports smooth camera controls, atmospheric effects, and configurable country highlighting.
@@ -47,8 +51,7 @@ You can dynamically change highlighted countries from the browser console:
 ```js
 setHighlightedCountries({
 'Bosnia and Herzegovina': '#ff3b30',
-'Slovenia': '#22c55e',
-'Croatia': '#3b82f6'
+'Slovenia': '#ff3b30,
 });
 ````
 
